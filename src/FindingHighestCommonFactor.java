@@ -7,26 +7,13 @@ public class FindingHighestCommonFactor {
         int firstNumber = scan.nextInt();
         System.out.println("Enter second number: ");
         int secondNumber = scan.nextInt();
-        int max = 0;
-        int min = 0;
-        int maxFactor = 1;
-//        int remainder =
-        if(firstNumber<secondNumber) {
-            max = secondNumber;
-            min = firstNumber;
+        while ( firstNumber != secondNumber){
+            if(firstNumber>secondNumber)
+                firstNumber-= secondNumber;
+                else
+                    secondNumber-= firstNumber;
         }
-        else{
-            max = firstNumber;
-            min = secondNumber;
-        }
-        for( int i=1; i<= max; i++ ){
-            if(max % i == 0){
-                if( min% i ==0 ){
-                    maxFactor = i;
-                }
-            }
-        }
-        System.out.println("The bigest common facter between 2 numbers is: "+ maxFactor);
+        System.out.println("The bigest common facter between 2 numbers is: "+ firstNumber);
     }
 }
 //28 1 2 4 7 14
