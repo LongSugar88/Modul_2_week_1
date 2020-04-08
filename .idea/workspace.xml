@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d5135e7-3e6a-4521-98bc-e163fd1fb87c" name="Default Changelist" comment="" />
+    <list default="true" id="4d5135e7-3e6a-4521-98bc-e163fd1fb87c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aFEZGrlBkNREw2TMmG7WfOMHCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,16 +34,10 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ExchangeMoney">
-    <configuration name="BodyBMI_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyClass.BodyBMI_Index" />
+  <component name="RunManager" selected="Application.MakeMoneyBySendItToBank">
+    <configuration name="BodyBMI_Index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BodyBMI_Index" />
       <module name="Week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,28 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleCaculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyClass.RectangleCaculate" />
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsPrime" />
       <module name="Week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToSayHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyClass.ToSayHello" />
+    <configuration name="MakeMoneyBySendItToBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakeMoneyBySendItToBank" />
       <module name="Week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeMoneyBySendItToBank" />
+        <item itemvalue="Application.IsPrime" />
+        <item itemvalue="Application.BodyBMI_Index (1)" />
         <item itemvalue="Application.ExchangeMoney" />
         <item itemvalue="Application.ExhangeNumberToWord" />
-        <item itemvalue="Application.RectangleCaculate" />
-        <item itemvalue="Application.ToSayHello" />
-        <item itemvalue="Application.BodyBMI_Index" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +110,9 @@
       <option name="presentableId" value="Default" />
       <updated>1586322995467</updated>
       <workItem from="1586323004757" duration="6034000" />
-      <workItem from="1586336575555" duration="10650000" />
+      <workItem from="1586336575555" duration="10978000" />
+      <workItem from="1586351336850" duration="5254000" />
+      <workItem from="1586358424869" duration="1217000" />
     </task>
     <servers />
   </component>
@@ -142,30 +132,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586323366991" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586350387585">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586359703208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586350387585" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586350387584">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586359703208" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586359703207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586350387584" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586350387583">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586359703207" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586359703207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586350387583" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586350387584">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586359703207" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586359703208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586350387584" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586359703208" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586323338387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586323338387" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586336621025">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586358437240">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586336621025" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586358437240" />
     <state x="65" y="0" key="new project wizard" timestamp="1586350728900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
