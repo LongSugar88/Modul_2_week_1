@@ -26,9 +26,6 @@ public class FindingHighestCommonFactor {
                 }
             }
         }
-        if(maxFactor == 1)
-            System.out.println("Have no common facter between 2 numbers");
-        else
         System.out.println("The bigest common facter between 2 numbers is: "+ maxFactor);
     }
 }
