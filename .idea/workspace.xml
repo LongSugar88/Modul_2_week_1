@@ -34,14 +34,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SumOfAnyColumnInMultiArraySide">
-    <configuration name="CombineAnElementOfMultiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CombineAnElementOfMultiArray" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SumOfAllElementInSquareMatrixDiagonalLine">
     <configuration name="ExhangeNumberToWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExhangeNumberToWord" />
       <module name="Week1" />
@@ -63,6 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfAllElementInSquareMatrixDiagonalLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfAllElementInSquareMatrixDiagonalLine" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfAnyColumnInMultiArraySide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfAnyColumnInMultiArraySide" />
       <module name="Week1" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfAllElementInSquareMatrixDiagonalLine" />
         <item itemvalue="Application.SumOfAnyColumnInMultiArraySide" />
         <item itemvalue="Application.FindingMinElementInArray" />
         <item itemvalue="Application.FindingMaxvalueOfMultiSideArray" />
         <item itemvalue="Application.ExhangeNumberToWord" />
-        <item itemvalue="Application.CombineAnElementOfMultiArray" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +101,7 @@
       <workItem from="1586336575555" duration="10978000" />
       <workItem from="1586351336850" duration="5254000" />
       <workItem from="1586358424869" duration="3957000" />
-      <workItem from="1586396748980" duration="23094000" />
+      <workItem from="1586396748980" duration="23637000" />
     </task>
     <servers />
   </component>
@@ -121,22 +121,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586323366991" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586434854174">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586435392768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586434854174" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586434854174">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586435392768" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586435392768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586434854174" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586434854173">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586435392768" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586435392768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586434854173" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586434854174">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586435392768" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586435392768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586434854174" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586435392768" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586434811986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
