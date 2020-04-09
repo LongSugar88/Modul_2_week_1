@@ -34,7 +34,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DeleteElementFromArray">
+  <component name="RunManager" selected="Application.AddAnElementToArray">
+    <configuration name="AddAnElementToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddAnElementToArray" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeleteElementFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteElementFromArray" />
       <module name="Week1" />
@@ -63,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowMultiDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowMultiDraw" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClass.MyClass" />
       <module name="Week1" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddAnElementToArray" />
         <item itemvalue="Application.DeleteElementFromArray" />
         <item itemvalue="Application.FindingMaxValueInArray" />
         <item itemvalue="Application.FindAnElementInArray" />
         <item itemvalue="Application.ReverseArrayElement" />
-        <item itemvalue="Application.ShowMultiDraw" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +101,7 @@
       <workItem from="1586336575555" duration="10978000" />
       <workItem from="1586351336850" duration="5254000" />
       <workItem from="1586358424869" duration="3957000" />
-      <workItem from="1586396748980" duration="17231000" />
+      <workItem from="1586396748980" duration="18313000" />
     </task>
     <servers />
   </component>
@@ -121,22 +121,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586323366991" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586426666371">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586427769286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586426666371" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586426666370">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586427769286" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586427769286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586426666370" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586426666370">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586427769286" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586427769285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586426666370" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586426666370">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586427769285" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586427769286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586426666370" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586427769286" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586426600576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -165,21 +165,5 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586350728900" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DeleteElementFromArray.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DeleteElementFromArray.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
