@@ -34,7 +34,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ChangeTemperature">
+  <component name="RunManager" selected="Application.FindingMinValueInArrayUseMethod">
     <configuration name="ChangeTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChangeTemperature" />
       <module name="Week1" />
@@ -42,8 +42,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindingMinElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindingMinElementInArray" />
+    <configuration name="FindingMinValueInArrayUseMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindingMinValueInArrayUseMethod" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindingMinValueInArrayUseMethod" />
         <item itemvalue="Application.ChangeTemperature" />
         <item itemvalue="Application.PrintPassPoint" />
         <item itemvalue="Application.SumOfAllElementInSquareMatrixDiagonalLine" />
         <item itemvalue="Application.SumOfAnyColumnInMultiArraySide" />
-        <item itemvalue="Application.FindingMinElementInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,7 @@
       <workItem from="1586351336850" duration="5254000" />
       <workItem from="1586358424869" duration="3957000" />
       <workItem from="1586396748980" duration="23939000" />
-      <workItem from="1586435805464" duration="4377000" />
+      <workItem from="1586435805464" duration="5271000" />
     </task>
     <servers />
   </component>
@@ -122,22 +122,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586323366991" />
-    <state width="661" height="174" key="GridCell.Tab.0.bottom" timestamp="1586445278348">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586446265611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586445278348" />
-    <state width="661" height="174" key="GridCell.Tab.0.center" timestamp="1586445278348">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586446265611" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586446265610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586445278348" />
-    <state width="661" height="174" key="GridCell.Tab.0.left" timestamp="1586445278347">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586446265610" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586446265610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586445278347" />
-    <state width="661" height="174" key="GridCell.Tab.0.right" timestamp="1586445278348">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586446265610" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586446265610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586445278348" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586446265610" />
     <state width="661" height="216" key="GridCell.Tab.1.bottom" timestamp="1586445195654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -166,21 +166,5 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586350728900" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ChangeTemperature.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ChangeTemperature.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
