@@ -1,12 +1,15 @@
 import java.util.Scanner;
 
-public class IsPrime {
+public class Show20PrimeNumbersFirst {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Enter number to check: ");
-        int num = scan.nextInt();
+        System.out.println("Enter amount prime number you need to print: ");
+        int numberOfPrime = scan.nextInt();
+        System.out.println("This is "+ numberOfPrime +" prime numbers first");
+        int num = 0;
+        int count = 0;
         boolean check = true;
-        while (num < 20) {
+        while (count < numberOfPrime) {
             if (num < 2) {
                 check = false;
             }else {
@@ -17,13 +20,12 @@ public class IsPrime {
                     }
                 }
             }
-            if (check)
-                System.out.println(num + " is prime number");
-            else
-                System.out.println(num + " is not prime number");
+            if (check) {
+                System.out.println(num);
+                count++;
+            }
             num++;
             check = true;
         }
-
     }
 }
