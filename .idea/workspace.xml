@@ -34,9 +34,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ReverseArrayElement">
+  <component name="RunManager" selected="Application.FindAnElementInArray">
     <configuration name="DeclareVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeclareVariable" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindAnElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAnElementInArray" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,13 +58,6 @@
     </configuration>
     <configuration name="ReverseArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseArrayElement" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShowAllPrimeNumberLessThan100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowAllPrimeNumberLessThan100" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAnElementInArray" />
         <item itemvalue="Application.ReverseArrayElement" />
         <item itemvalue="Application.ShowMultiDraw" />
         <item itemvalue="Application.DeclareVariable" />
         <item itemvalue="Application.IsPrime" />
-        <item itemvalue="Application.ShowAllPrimeNumberLessThan100" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +101,7 @@
       <workItem from="1586336575555" duration="10978000" />
       <workItem from="1586351336850" duration="5254000" />
       <workItem from="1586358424869" duration="3957000" />
-      <workItem from="1586396748980" duration="12436000" />
+      <workItem from="1586396748980" duration="13677000" />
     </task>
     <servers />
   </component>
@@ -121,22 +121,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586323366991" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586419572784">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586420905037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586419572784" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586419572783">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586420905037" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586420905037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586419572783" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586419572783">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586420905037" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586420905037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586419572783" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586419572784">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586420905037" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586420905037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586419572784" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586420905037" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586323338387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
