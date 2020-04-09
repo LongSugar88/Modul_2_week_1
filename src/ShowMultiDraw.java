@@ -27,7 +27,6 @@ public class ShowMultiDraw {
                 case 2:
                     System.out.println("Input a number: ");
                     int c = scan.nextInt();
-                    System.out.println("Input short side: ");
                     for (int i = 1; i <= c; i++) {
                         for (int j = 1; j <= i; j++) {
                             System.out.print("*");
@@ -36,16 +35,16 @@ public class ShowMultiDraw {
                     }
                     break;
                 case 3:
-                    System.out.println("Input long side: ");
+                    System.out.println("Input a number: ");
                     int d = scan.nextInt();
                     for (int i = 1; i < d; i++) {
                         for (int j = 1; j < d - i; j++) {
                             System.out.print(" ");
                         }
-                        for (int j = 1; j <= i; j++) {
+                        for (int k = 1; k <= i; k++) {
                             System.out.print("*");
                         }
-                        for (int k = 2; k <= i; k++) {
+                        for (int l = 2; l <= i; l++) {
                             System.out.print("*");
                         }
                         System.out.println();
