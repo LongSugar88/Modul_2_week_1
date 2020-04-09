@@ -275,7 +275,7 @@ public class ExhangeNumberToWord {
             }
             System.out.println(aText + bText + cText);
         } else
-            System.out.println("Unavailable");
+            System.out.println("Đéo biết ");
     }
 }
 
