@@ -12,7 +12,7 @@ public class DeleteElementFromArray {
             myArray[i] = scan.nextInt();
         }
 
-        System.out.print("All of th elements in array: ");
+        System.out.print("All of the elements in array: ");
         for (int asset : myArray) {
             System.out.print(asset + ", ");
         }
@@ -24,14 +24,15 @@ public class DeleteElementFromArray {
         for(int i=0; i<myArray.length; i++){
             if(deleteNum == myArray[i]){
                 position = i;
-                for (int j=position; j<myArray.length-1; j++)
+                for (int j=position; j<myArray.length-1; j++) {
                     myArray[j] = myArray[j + 1];
+                }
                     myArray[myArray.length - 1] = 0;
                     i--;
             }
         }
 
-        System.out.print("All of th elements in array after delete: ");
+        System.out.print("All of the elements in array after delete: ");
         for (int asset : myArray) {
             System.out.print(asset + ", ");
         }

@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4d5135e7-3e6a-4521-98bc-e163fd1fb87c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Week1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountAppearTimeOfCharInStrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountAppearTimeOfCharInStrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteElementFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeleteElementFromArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +40,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FindAnElementInArray">
-    <configuration name="ChangeTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChangeTemperature" />
+  <component name="RunManager" selected="Application.MineSweeper">
+    <configuration name="DeclareVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeclareVariable" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountAppearTimeOfCharInStrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountAppearTimeOfCharInStrong" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindAnElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAnElementInArray" />
+    <configuration name="DeleteElementFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteElementFromArray" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintPassPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintPassPoint" />
+    <configuration name="MineSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MineSweeper" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindAnElementInArray" />
-        <item itemvalue="Application.CountAppearTimeOfCharInStrong" />
+        <item itemvalue="Application.MineSweeper" />
         <item itemvalue="Application.FindingMinValueInArrayUseMethod" />
-        <item itemvalue="Application.ChangeTemperature" />
-        <item itemvalue="Application.PrintPassPoint" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.DeclareVariable" />
+        <item itemvalue="Application.DeleteElementFromArray" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +109,7 @@
       <workItem from="1586358424869" duration="3957000" />
       <workItem from="1586396748980" duration="23939000" />
       <workItem from="1586435805464" duration="9145000" />
-      <workItem from="1586480045925" duration="2964000" />
+      <workItem from="1586480045925" duration="12859000" />
     </task>
     <servers />
   </component>
@@ -132,38 +133,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586482287284" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586480932786">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586497693485">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586480932786" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586480932785">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586497693485" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586497693485">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586480932785" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586480932784">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586497693485" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586497693484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586480932784" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586480932786">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586497693484" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586497693485">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586480932786" />
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586450046717">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586497693485" />
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom" timestamp="1586497580868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586450046717" />
-    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1586450046717">
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586497580868" />
+    <state width="1322" height="253" key="GridCell.Tab.1.center" timestamp="1586497580867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586450046717" />
-    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1586450046716">
+    <state width="1322" height="253" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586497580867" />
+    <state width="1322" height="253" key="GridCell.Tab.1.left" timestamp="1586497580867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586450046716" />
-    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1586450046717">
+    <state width="1322" height="253" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586497580867" />
+    <state width="1322" height="253" key="GridCell.Tab.1.right" timestamp="1586497580868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586450046717" />
+    <state width="1322" height="253" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586497580868" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586323338387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
