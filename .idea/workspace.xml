@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d5135e7-3e6a-4521-98bc-e163fd1fb87c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountAppearTimeOfCharInStrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountAppearTimeOfCharInStrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeleteElementFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeleteElementFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MineSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MineSweeper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +39,22 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MineSweeper">
-    <configuration name="DeclareVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeclareVariable" />
+  <component name="RunManager" selected="Application.CreatANewObjRectangle">
+    <configuration name="CreatANewObjRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuildARactangleClass.CreatANewObjRectangle" />
       <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BuildARactangleClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteElementFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteElementFromArray" />
+    <configuration name="DeclareVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeclareVariable" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreatANewObjRectangle" />
         <item itemvalue="Application.MineSweeper" />
         <item itemvalue="Application.FindingMinValueInArrayUseMethod" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.DeclareVariable" />
-        <item itemvalue="Application.DeleteElementFromArray" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +114,9 @@
       <workItem from="1586358424869" duration="3957000" />
       <workItem from="1586396748980" duration="23939000" />
       <workItem from="1586435805464" duration="9145000" />
-      <workItem from="1586480045925" duration="12859000" />
+      <workItem from="1586480045925" duration="13775000" />
+      <workItem from="1586499071052" duration="671000" />
+      <workItem from="1586506293894" duration="4582000" />
     </task>
     <servers />
   </component>
@@ -125,6 +132,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586323370802" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1586519379891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586519379891" />
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586323366991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -133,38 +144,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586482287284" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586497693485">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586520659732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586497693485" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586497693485">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586520659732" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586520659732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586497693485" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586497693484">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586520659732" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586520659732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586497693484" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586497693485">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586520659732" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586520659732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586497693485" />
-    <state width="1322" height="253" key="GridCell.Tab.1.bottom" timestamp="1586497580868">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586520659732" />
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom" timestamp="1586503158101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586497580868" />
-    <state width="1322" height="253" key="GridCell.Tab.1.center" timestamp="1586497580867">
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586503158101" />
+    <state width="1322" height="253" key="GridCell.Tab.1.center" timestamp="1586503158097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586497580867" />
-    <state width="1322" height="253" key="GridCell.Tab.1.left" timestamp="1586497580867">
+    <state width="1322" height="253" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586503158097" />
+    <state width="1322" height="253" key="GridCell.Tab.1.left" timestamp="1586503158078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586497580867" />
-    <state width="1322" height="253" key="GridCell.Tab.1.right" timestamp="1586497580868">
+    <state width="1322" height="253" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586503158078" />
+    <state width="1322" height="253" key="GridCell.Tab.1.right" timestamp="1586503158098">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586497580868" />
+    <state width="1322" height="253" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586503158098" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586323338387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -173,10 +184,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1586447764341" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586480123160">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586506364968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586480123160" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586506364968" />
     <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586447991062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -189,5 +200,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586446647309" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MineSweeper.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

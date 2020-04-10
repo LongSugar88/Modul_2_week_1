@@ -35,7 +35,7 @@ public class MineSweeper {
         }
         for(int i=0; i<MAP_WIDTH; i++) {
             for (int j = 0; j < maps[0].length; j++) {
-                System.out.printf(maps[i][j]);
+                System.out.printf(maps[i][j] +" ");
             }
             System.out.println();
         }
