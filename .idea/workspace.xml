@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d5135e7-3e6a-4521-98bc-e163fd1fb87c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Week1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -34,9 +39,23 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FindingMinValueInArrayUseMethod">
+  <component name="RunManager" selected="Application.FindAnElementInArray">
     <configuration name="ChangeTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChangeTemperature" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountAppearTimeOfCharInStrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountAppearTimeOfCharInStrong" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindAnElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAnElementInArray" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,20 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfAllElementInSquareMatrixDiagonalLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfAllElementInSquareMatrixDiagonalLine" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfAnyColumnInMultiArraySide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfAnyColumnInMultiArraySide" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClass.MyClass" />
       <module name="Week1" />
@@ -79,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAnElementInArray" />
+        <item itemvalue="Application.CountAppearTimeOfCharInStrong" />
         <item itemvalue="Application.FindingMinValueInArrayUseMethod" />
         <item itemvalue="Application.ChangeTemperature" />
         <item itemvalue="Application.PrintPassPoint" />
-        <item itemvalue="Application.SumOfAllElementInSquareMatrixDiagonalLine" />
-        <item itemvalue="Application.SumOfAnyColumnInMultiArraySide" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +107,8 @@
       <workItem from="1586351336850" duration="5254000" />
       <workItem from="1586358424869" duration="3957000" />
       <workItem from="1586396748980" duration="23939000" />
-      <workItem from="1586435805464" duration="5271000" />
+      <workItem from="1586435805464" duration="9145000" />
+      <workItem from="1586480045925" duration="2964000" />
     </task>
     <servers />
   </component>
@@ -122,49 +128,65 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586323366991" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586446265611">
+    <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586482287284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586446265611" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586446265610">
+    <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586482287284" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586480932786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586446265610" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586446265610">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586480932786" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586480932785">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586446265610" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586446265610">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586480932785" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586480932784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586446265610" />
-    <state width="661" height="216" key="GridCell.Tab.1.bottom" timestamp="1586445195654">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586480932784" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586480932786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586445195654" />
-    <state width="661" height="216" key="GridCell.Tab.1.center" timestamp="1586445195654">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586480932786" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586450046717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586445195654" />
-    <state width="661" height="216" key="GridCell.Tab.1.left" timestamp="1586445195654">
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586450046717" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1586450046717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586445195654" />
-    <state width="661" height="216" key="GridCell.Tab.1.right" timestamp="1586445195654">
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586450046717" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1586450046716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586445195654" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586450046716" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1586450046717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586450046717" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586323338387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586323338387" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586435837787">
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1586447764341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586435837787" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1586447764341" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586480123160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586480123160" />
+    <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586447991062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1586447991062" />
     <state x="65" y="0" key="new project wizard" timestamp="1586350728900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586350728900" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586446647309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586446647309" />
   </component>
 </project>
