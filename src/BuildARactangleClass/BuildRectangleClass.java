@@ -4,6 +4,9 @@ public class BuildRectangleClass {
     //khai báo các thuộc tính của lớp HCN, trường dữ liệu đặc trưng của hình chữ nhật
     int width, height;
     //định nghĩa phương thức khởi tạo để tạo một đối tượng mới
+    public BuildRectangleClass(){
+
+    }
     public BuildRectangleClass(int width, int height){
         this.width = width;
         this.height = height;

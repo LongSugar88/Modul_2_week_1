@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d5135e7-3e6a-4521-98bc-e163fd1fb87c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildARactangleClass/BuildRectangleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildARactangleClass/BuildRectangleClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ResolveQuadraticEquation">
+  <component name="RunManager" selected="Application.Fan">
     <configuration name="CreatANewObjRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuildARactangleClass.CreatANewObjRectangle" />
       <module name="Week1" />
@@ -52,9 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindingMinValueInArrayUseMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindingMinValueInArrayUseMethod" />
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FanClass.Fan" />
       <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FanClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StopWatch.StopWatch" />
+      <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StopWatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClass.MyClass" />
       <module name="Week1" />
@@ -86,20 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.StopWatch" />
         <item itemvalue="Application.ResolveQuadraticEquation" />
         <item itemvalue="Application.CreatANewObjRectangle" />
         <item itemvalue="Application.MineSweeper" />
-        <item itemvalue="Application.FindingMinValueInArrayUseMethod" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +135,8 @@
       <workItem from="1586480045925" duration="13775000" />
       <workItem from="1586499071052" duration="671000" />
       <workItem from="1586506293894" duration="4659000" />
-      <workItem from="1586521077108" duration="2275000" />
+      <workItem from="1586521077108" duration="14840000" />
+      <workItem from="1586571351195" duration="3179000" />
     </task>
     <servers />
   </component>
@@ -150,38 +164,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586482287284" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586523546693">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586577651661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586523546693" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586523546693">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586577651661" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586577651660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586523546693" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586523546693">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586577651660" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586577651660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586523546693" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586523546693">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586577651660" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586577651661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586523546693" />
-    <state width="1322" height="253" key="GridCell.Tab.1.bottom" timestamp="1586503158101">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586577651661" />
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom" timestamp="1586536547580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586503158101" />
-    <state width="1322" height="253" key="GridCell.Tab.1.center" timestamp="1586503158097">
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586536547580" />
+    <state width="1322" height="253" key="GridCell.Tab.1.center" timestamp="1586536547580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586503158097" />
-    <state width="1322" height="253" key="GridCell.Tab.1.left" timestamp="1586503158078">
+    <state width="1322" height="253" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586536547580" />
+    <state width="1322" height="253" key="GridCell.Tab.1.left" timestamp="1586536547580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586503158078" />
-    <state width="1322" height="253" key="GridCell.Tab.1.right" timestamp="1586503158098">
+    <state width="1322" height="253" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586536547580" />
+    <state width="1322" height="253" key="GridCell.Tab.1.right" timestamp="1586536547580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586503158098" />
+    <state width="1322" height="253" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586536547580" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586323338387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -190,10 +204,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1586447764341" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586521096029">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586571340533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586521096029" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586571340533" />
     <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586447991062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
