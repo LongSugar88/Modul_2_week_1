@@ -4,7 +4,7 @@ public class StopWatch {
     public static void main(String[] args){
 
         StopWatchClass stopWatchClass = new StopWatchClass();
-        MakeNumberArray makeNumberArray = new MakeNumberArray(1000);
+        MakeNumberArray makeNumberArray = new MakeNumberArray(100000);
 
         double myNuberArray[] = makeNumberArray.creatAnArray();
 //        double myNuberArray[] = {8.0, 44.0, 25.0, 449.0 };

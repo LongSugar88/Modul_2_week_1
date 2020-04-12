@@ -27,8 +27,8 @@ public class DeleteElementFromArray {
                 for (int j=position; j<myArray.length-1; j++) {
                     myArray[j] = myArray[j + 1];
                 }
-                    myArray[myArray.length - 1] = 0;
-                    i--;
+                myArray[myArray.length - 1] = 0;
+                i--;
             }
         }
 

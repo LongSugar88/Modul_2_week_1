@@ -45,7 +45,6 @@ public class FanClass {
         return this.color;
     }
 
-    @Override
     public String toString() {
             if (isOn()) {
                 return "Speed :" + this.speed + " radius: " + this.radius + " color: " + this.color + " fan is on";
@@ -53,9 +52,3 @@ public class FanClass {
                 return "radius: " + this.radius + " color: " + this.color + " fan is off";
     }
 }
-//public class Fan1 extends FanClass{
-//    @Override
-//public String getColor(){
-//        return "Long đẹp trai";
-//    }
-//        }
