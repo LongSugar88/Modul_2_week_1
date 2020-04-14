@@ -6,7 +6,7 @@ package AccessModifier;
         public String message(){
             return "Super";
         }
-        public AccessModifier(){
+        protected AccessModifier(){
             System.out.println("Private");
         }
         private void setAge(int age){

@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5135e7-3e6a-4521-98bc-e163fd1fb87c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeleteElementFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeleteElementFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FanClass/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FanClass/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FanClass/FanClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FanClass/FanClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StopWatch/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StopWatch/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccessModifier/AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessModifier/AccessModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccessModifierOutside/AccessOutSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessModifierOutside/AccessOutSide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaticProperty/ShowStaticProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticProperty/ShowStaticProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaticProperty/StaticPropertyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticProperty/StaticPropertyClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +38,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.StaticMethod">
+  <component name="RunManager" selected="Application.subProtected">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AccessModifier_CircleClass.Circle" />
       <module name="Week1" />
@@ -83,19 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubDefaultAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccessModifier.SubDefaultAccess" />
-      <module name="Week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AccessModifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClass.MyClass" />
       <module name="Week1" />
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="subProtected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccessModifierOutside.subProtected" />
+      <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AccessModifierOutside.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.subProtected" />
+        <item itemvalue="Application.ShowStaticProperty" />
         <item itemvalue="Application.StaticMethod" />
         <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.ShowStaticProperty" />
         <item itemvalue="Application.UsingStaticMethod" />
-        <item itemvalue="Application.SubDefaultAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,10 @@
       <workItem from="1586506293894" duration="4659000" />
       <workItem from="1586521077108" duration="14840000" />
       <workItem from="1586571351195" duration="11761000" />
-      <workItem from="1586657088238" duration="21423000" />
+      <workItem from="1586657088238" duration="23422000" />
+      <workItem from="1586748422839" duration="753000" />
+      <workItem from="1586754057966" duration="247000" />
+      <workItem from="1586850739307" duration="1107000" />
     </task>
     <servers />
   </component>
@@ -183,38 +186,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586677024308" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586683370489">
+    <state x="462" y="107" key="FileChooserDialogImpl" timestamp="1586749190739">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586683370488" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586683370488">
+    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586749190739" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586754304111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586683370488" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586683370488">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586754304111" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586754304111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586683370488" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586683370488">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586754304111" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586754304110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586683370488" />
-    <state width="1322" height="253" key="GridCell.Tab.1.bottom" timestamp="1586659874142">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586754304110" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586754304111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586659874141" />
-    <state width="1322" height="253" key="GridCell.Tab.1.center" timestamp="1586659874140">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586754304111" />
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom" timestamp="1586710066594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586659874140" />
-    <state width="1322" height="253" key="GridCell.Tab.1.left" timestamp="1586659874139">
+    <state width="1322" height="253" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586710066594" />
+    <state width="1322" height="253" key="GridCell.Tab.1.center" timestamp="1586710066594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586659874139" />
-    <state width="1322" height="253" key="GridCell.Tab.1.right" timestamp="1586659874141">
+    <state width="1322" height="253" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586710066594" />
+    <state width="1322" height="253" key="GridCell.Tab.1.left" timestamp="1586710066594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="253" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586659874141" />
+    <state width="1322" height="253" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586710066594" />
+    <state width="1322" height="253" key="GridCell.Tab.1.right" timestamp="1586710066594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="253" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586710066594" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586323338387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -223,18 +230,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1586447764341" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586657658594">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586748962822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586657658594" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586748962822" />
     <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586447991062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1586447991062" />
-    <state x="65" y="0" key="new project wizard" timestamp="1586350728900">
+    <state x="65" y="0" key="new project wizard" timestamp="1586749171711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586350728900" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586749171711" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586446647309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
